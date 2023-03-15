@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae5e7612-a8e8-4111-8288-f4d24e810394" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-events/06-input-events/shopping-list/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../07-events/06-input-events/shopping-list/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-events/07-form-submission/shopping-list/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../07-events/07-form-submission/shopping-list/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-events/08-event-bubbling/shopping-list/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../07-events/08-event-bubbling/shopping-list/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-events/09-event-delegation/shopping-list/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../07-events/09-event-delegation/shopping-list/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-events/10-window-events/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../07-events/10-window-events/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07-events/10-window-events/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../07-events/10-window-events/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/01-settimeout-cleartimeout/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/01-settimeout-cleartimeout/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/02-setinterval-clearinterval/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/02-setinterval-clearinterval/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/03-callbacks/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/03-callbacks/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/04-ajax-xhr/movies.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/04-ajax-xhr/movies.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/04-ajax-xhr/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/04-ajax-xhr/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/04-ajax-xhr/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/04-ajax-xhr/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/05-joke-generator-challenge/chuck-joke-generator-start/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/05-joke-generator-challenge/chuck-joke-generator-start/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/06-callback-hell/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/06-callback-hell/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/07-promises/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/07-promises/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/08-callback-to-promise/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/08-callback-to-promise/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/09-promise-chaining/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/09-promise-chaining/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/10-promises-vs-callback-hell/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/10-promises-vs-callback-hell/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/10-promises-vs-callback-hell/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/10-promises-vs-callback-hell/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-asynchronous-javascript/11-promise-all/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../08-asynchronous-javascript/11-promise-all/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/01-fetch-basics/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/01-fetch-basics/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/02-random-user-project/random-user-generator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/02-random-user-project/random-user-generator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/02-random-user-project/random-user-generator/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/02-random-user-project/random-user-generator/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/03-fetch-options/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/03-fetch-options/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/04-typicode-todos-mini-project/typicode-todos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/04-typicode-todos-mini-project/typicode-todos/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/04-typicode-todos-mini-project/typicode-todos/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/04-typicode-todos-mini-project/typicode-todos/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/05-fetch-error-handling/random-user-generator/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/05-fetch-error-handling/random-user-generator/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/05-fetch-error-handling/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/05-fetch-error-handling/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/06-async-await/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/06-async-await/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/07-try-catch/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/07-try-catch/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/08-async-await-error-handling/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/08-async-await-error-handling/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/09-multiple-promises-async-await/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/09-multiple-promises-async-await/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="zr1tq2kf" />
+  </component>
+  <component name="ProjectId" id="2MzXQJ3bv17wPMbMZDSR68ENbsJ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/rob/Desktop/JSbootcamp/projects/flixx",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/rob/.nvm/versions/node/v19.4.0/lib/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="flixx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="flixx" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae5e7612-a8e8-4111-8288-f4d24e810394" name="Changes" comment="" />
+      <created>1678771366997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678771366997</updated>
+      <workItem from="1678771367991" duration="37000" />
+      <workItem from="1678852233628" duration="324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
