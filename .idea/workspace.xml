@@ -39,11 +39,39 @@
       <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/07-try-catch/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/07-try-catch/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/08-async-await-error-handling/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/08-async-await-error-handling/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../09-fetch-and-async-await/09-multiple-promises-async-await/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../09-fetch-and-async-await/09-multiple-promises-async-await/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="1.page-router" />
+                    <option name="lastUsedInstant" value="1678853305" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1678853304" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="zr1tq2kf" />
@@ -57,6 +85,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/rob/Desktop/JSbootcamp/projects/flixx",
     "node.js.detected.package.eslint": "true",
@@ -93,11 +122,15 @@
       <option name="presentableId" value="Default" />
       <updated>1678771366997</updated>
       <workItem from="1678771367991" duration="37000" />
-      <workItem from="1678852233628" duration="324000" />
+      <workItem from="1678852233628" duration="1166000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
