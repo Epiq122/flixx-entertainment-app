@@ -347,7 +347,7 @@ const search = async () => {
     const { results, total_pages, page } = await searchAPIData();
 
     if (results.length === 0) {
-      showAlert('Sorry, no results found');
+      showAlert('no results found');
       return;
     }
 
